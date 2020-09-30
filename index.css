@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   }
+   
+   html{
+       width: 100vw;
+       height: 100vh;
+   }
+   
+   /* CSS which you need for blurred box */
+   body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    background-image:url(https://images.unsplash.com/photo-1477346611705-65d1883cee1e?dpr=0.800000011920929&auto=format&fit=crop&w=1199&h=800&q=80&cs=tinysrgb&crop=);
+    width: 100%;
+    height: 100%;
+    color: aliceblue;
+    -webkit-font-smoothing: antialiased; 
+   }
+   
+   
+   
